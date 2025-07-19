@@ -4,7 +4,7 @@ This project is a modern and responsive restaurant website built using HTML5 and
 
 <h2>Technologies Used</h2>
 
-HTML and CSS
+HTML5 and CSS3
 
 <h2>Preview</h2>
 
